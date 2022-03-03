@@ -1,2 +1,2 @@
-# paulaszst-dio-primeiro-desafio-github
-Primeiro código sobre Git/GitHub
+# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
+Meu primeiro código
